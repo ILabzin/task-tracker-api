@@ -1,6 +1,6 @@
 package org.labzin.task.tracker.factories;
 
-import org.labzin.task.tracker.api.dto.TaskStateDto;
+import org.labzin.task.tracker.dto.TaskStateDto;
 import org.labzin.task.tracker.model.TaskStateEntity;
 import org.springframework.stereotype.Component;
 

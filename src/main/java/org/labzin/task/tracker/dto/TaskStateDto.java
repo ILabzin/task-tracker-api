@@ -1,4 +1,4 @@
-package org.labzin.task.tracker.api.dto;
+package org.labzin.task.tracker.dto;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.sun.istack.NotNull;

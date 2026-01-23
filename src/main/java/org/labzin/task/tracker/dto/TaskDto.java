@@ -1,4 +1,4 @@
-package org.labzin.task.tracker.api.dto;
+package org.labzin.task.tracker.dto;
 
 import com.sun.istack.NotNull;
 import lombok.AllArgsConstructor;
